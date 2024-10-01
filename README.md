@@ -1,4 +1,5 @@
 
+
 # Maksim Budzko
 
 🛠📱🧑‍💻Senior software developer based in Warsaw 
@@ -41,7 +42,7 @@ I'm passionate about solving complex problems and delivering high-quality mobile
 - Experience with 3rd party libraries and services
 
 ## 💻 Engineering Experience
-**Investment app** (04.2020 - current)
+### Investment app (04.2020 - current)
 > *Position: Senior android developer*
 > #### Description: 
 > - **Created a bond yield calculator**: This functionality enabled the client to calculate potential profits based on their invested funds.
@@ -50,7 +51,7 @@ I'm passionate about solving complex problems and delivering high-quality mobile
 > - **Involved in the hiring and onboarding processes** of new team members.
 > - **Work in a team of android developers of about 30 colleagues**
 ---
-**Fintech app** (02.2020 - 03.2023)
+### Fintech app (02.2020 - 03.2023)
 > *Position:  Android developer*
 > #### Description: 
 > - **International payments via SWIFT**: A long and complex transfer process with verification and confirmation of sent data and a large number of stages made accessible and straightforward through a mobile application.
@@ -59,15 +60,15 @@ I'm passionate about solving complex problems and delivering high-quality mobile
 > - **Participated in the development and improvement of the component library UI-kit**
 > - **Work in a team of android developers of about 70 colleagues**
 ---
-**Pizza app**: (06.2019-01.2020)
+### Pizza app (06.2019-01.2020)
 > *Position:  Android developer*
 > #### Description: 
 > -  **User Interface**: develop an intuitive and user-friendly interface that displays the list of pizzas and their details.
 > -  **Data Caching and synchronization**: implement a caching mechanism to store important data for offline access, ensuring the application remains functional without an Internet connection.
 > - **Map Integration**: Integrate Google Maps to display the user’s current location and the location of nearby pizzerias.
->- **Migration of architecture from MVP to MVVM**.
+> - **Migration of architecture from MVP to MVVM**.
 ---
-**Fitness app** : (01.2019-06.2019)
+### Fitness app (01.2019-06.2019)
 > *Position:  Junior android developer*
 > #### Description: 
 > -   **Developed a robust jogging tracking feature** that accurately records time, distance, and routes, providing users with essential workout data in real time.
