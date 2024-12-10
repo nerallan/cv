@@ -52,7 +52,7 @@ I'm passionate about solving complex problems and delivering high-quality mobile
   
 ---
 
-### Fintech app (Android Developer))
+## Fintech app (Android Developer)
 **02/2020 – 03/2023**  
 - **International payments via SWIFT**: A long and complex transfer process with verification and confirmation of sent data and a large number of stages made accessible and straightforward through a mobile application.
 - **NFC Payment Development**: Successfully integrated an external library, resulting in a significant increase in payment conversions through the terminal by leveraging our application.
