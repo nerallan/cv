@@ -41,41 +41,43 @@ I'm passionate about solving complex problems and delivering high-quality mobile
 - Experience with a multi-module project
 - Experience with 3rd party libraries and services
 
-## 💻 Engineering Experience
-### Investment app (04.2020 - current)
-> *Position: Senior android developer*
-> #### Description: 
-> - **Created a bond yield calculator**: This functionality enabled the client to calculate potential profits based on their invested funds.
-> - **“Broken qualifications” popups with an errors for requalifying a client**: implemented pop-up's for errors from the quotes library. This allowed clients to confirm their qualifications immediately after receiving an errors. As a result, the retention rate for continuing the flow feature doubled and the rate of support calls decreased by 70%.
-> - **Repeating an executed order**: added the ability for the user to repeat a previously created order if it's in a certain correct status, as a result the user can quickly navigate to the pre-filled order creation screen.
-> - **Involved in the hiring and onboarding processes** of new team members.
-> - **Work in a team of android developers of about 30 colleagues**
+# 💻 Engineering Experience
+
+## Investment app (Senior android developer)
+**04/2020 – Present**
+- **Created a bond yield calculator**: This functionality enabled the client to calculate potential profits based on their invested funds.
+- **“Broken qualifications” popups with an errors for requalifying a client**: implemented pop-up's for errors from the quotes library. This allowed clients to confirm their qualifications immediately after receiving an errors. As a result, the retention rate for continuing the flow feature doubled and the rate of support calls decreased by 70%.
+- **Repeating an executed order**: added the ability for the user to repeat a previously created order if it's in a certain correct status, as a result the user can quickly navigate to the pre-filled order creation screen.
+- **Team Contributions**: Participated in hiring and onboarding new team members. Collaborate within a team of ~30 Android developers.
+  
 ---
-### Fintech app (02.2020 - 03.2023)
-> *Position:  Android developer*
-> #### Description: 
-> - **International payments via SWIFT**: A long and complex transfer process with verification and confirmation of sent data and a large number of stages made accessible and straightforward through a mobile application.
-> - **Development of payment functionality via NFS**: Successfully integrated an external library, resulting in a significant increase in payment conversions through the terminal by leveraging our application.
-> - **Development and maintenance of SDUI and dynamic fields frameworks**: Focused on managing UI components on the server side, significantly reduced time to market mectirc, increasing flexibility and efficiency in customizing the user interface.
-> - **Participated in the development and improvement of the component library UI-kit**
-> - **Work in a team of android developers of about 70 colleagues**
+
+### Fintech app (Android Developer))
+**02/2020 – 03/2023**  
+- **International payments via SWIFT**: A long and complex transfer process with verification and confirmation of sent data and a large number of stages made accessible and straightforward through a mobile application.
+- **NFC Payment Development**: Successfully integrated an external library, resulting in a significant increase in payment conversions through the terminal by leveraging our application.
+- **Development and maintenance of SDUI and dynamic fields frameworks**: Focused on managing UI components on the server side, significantly reduced time to market mectirc, increasing flexibility and efficiency in customizing the user interface.
+- **UI-Kit Library Contributions**: Contributed to developing and improving the component-based UI library.  
+- Collaborated within a team of ~70 Android developers.
+  
 ---
-### Pizza app (06.2019-01.2020)
-> *Position:  Android developer*
-> #### Description: 
-> -  **User Interface**: develop an intuitive and user-friendly interface that displays the list of pizzas and their details.
-> -  **Data Caching and synchronization**: implement a caching mechanism to store important data for offline access, ensuring the application remains functional without an Internet connection.
-> - **Map Integration**: Integrate Google Maps to display the user’s current location and the location of nearby pizzerias.
-> - **Migration of architecture from MVP to MVVM**.
+
+## Pizza App (Android Developer)  
+**06/2019 – 01/2020** 
+- **User Interface**: develop an intuitive and user-friendly interface that displays the list of pizzas and their details.
+- **Data Caching and synchronization**: implement a caching mechanism to store important data for offline access, ensuring the application remains functional without an Internet connection.
+- **Map Integration**: Integrate Google Maps to display the user’s current location and the location of nearby pizzerias.
+- **Architecture Migration**: Migrated the app’s architecture from MVP to MVVM, improving maintainability and scalability.
+  
 ---
-### Fitness app (01.2019-06.2019)
-> *Position:  Junior android developer*
-> #### Description: 
-> -   **Developed a robust jogging tracking feature** that accurately records time, distance, and routes, providing users with essential workout data in real time.
-> -   **Implemented seamless synchronization (integrated Firebase)** between local storage and a remote server, ensuring user data is always up-to-date and securely backed up when the Internet is available.
-> -   **Enhanced user experience** by integrating Google Maps, allowing users to visualize their jogging routes with precision.
-> -   **Implemented background functionality** to allow users to continue recording their route even when the application is closed.
-> -   **Optimized local data storage** to ensure efficient management of training data, improving app performance even when used offline.
+
+## Fitness App (Junior Android Developer)  
+**01/2019 – 06/2019**  
+- **Developed a robust jogging tracking feature** that accurately records time, distance, and routes, providing users with essential workout data in real time.
+- **Implemented seamless synchronization (integrated Firebase)** between local storage and a remote server, ensuring user data is always up-to-date and securely backed up when the Internet is available.
+- **Enhanced user experience** by integrating Google Maps, allowing users to visualize their jogging routes with precision.
+- **mplemented background functionality** to allow users to continue recording their route even when the application is closed.
+- **Optimized local data storage** to ensure efficient management of training data, improving app performance even when used offline.
 
 
 ## 🎓 Education
